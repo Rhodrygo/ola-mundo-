@@ -1,3 +1,8 @@
-# ola mundo 
+# Ola Mundo 
  primeiro repositorio curso em video
+<<<<<<< HEAD
 trabalhando com repositorio
+=======
+
+
+auterando no github
