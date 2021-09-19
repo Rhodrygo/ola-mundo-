@@ -6,3 +6,4 @@ trabalhando com repositorio
 
 
 auterando no github
+comentario feito no vscode
